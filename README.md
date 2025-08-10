@@ -25,9 +25,3 @@ It provides a seamless experience for users to browse, book, and manage car rent
 
 ---
 
-## 📦 Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
